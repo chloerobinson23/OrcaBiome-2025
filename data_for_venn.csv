@@ -1,0 +1,769 @@
+SampleType,Genus
+Flukeprint,Acidaminococcus
+Flukeprint,Pseudaeromonas
+Flukeprint,Aliiglaciecola
+Flukeprint,Echinimonas
+Flukeprint,Ferrimonas
+Flukeprint,Pseudoalteromonas
+Flukeprint,Shewanella
+Flukeprint,Anaeroplasma
+Flukeprint,BRC1_genera_incertae_sedis
+Flukeprint,Gemella
+Flukeprint,Carboxylicivirga
+Flukeprint,Fermentimonas
+Flukeprint,Geofilum
+Flukeprint,Labilibaculum
+Flukeprint,Maribellus
+Flukeprint,Paramuribaculum
+Flukeprint,Petrimonas
+Flukeprint,Prevotellamassilia
+Flukeprint,Roseimarinus
+Flukeprint,Saccharicrinis
+Flukeprint,Bradymonas
+Flukeprint,Hydromonas
+Flukeprint,Noviherbaspirillum
+Flukeprint,Pelomonas
+Flukeprint,Variovorax
+Flukeprint,Candidatus Cloacamonas
+Flukeprint,Brevundimonas
+Flukeprint,Microbulbifer
+Flukeprint,Niastella
+Flukeprint,Panacibacter
+Flukeprint,Taibaiella
+Flukeprint,Terrimonas
+Flukeprint,Euglenida
+Flukeprint,Granulosicoccus
+Flukeprint,Wenzhouxiangella
+Flukeprint,Aminipila
+Flukeprint,Butyricicoccus
+Flukeprint,Clostridium IV
+Flukeprint,Clostridium XlVb
+Flukeprint,Enterocloster
+Flukeprint,Hathewaya
+Flukeprint,Lachnospiracea_incertae_sedis
+Flukeprint,Mogibacterium
+Flukeprint,Neglecta
+Flukeprint,Oscillibacter
+Flukeprint,Sporobacter
+Flukeprint,Algoriphagus
+Flukeprint,Desulforhopalus
+Flukeprint,Yersinia
+Flukeprint,Planktothrix
+Flukeprint,Actibacter
+Flukeprint,Aequorivita
+Flukeprint,Bizionia
+Flukeprint,Cellulophaga
+Flukeprint,Chryseobacterium
+Flukeprint,Dokdonia
+Flukeprint,Empedobacter
+Flukeprint,Eudoraea
+Flukeprint,Lacinutrix
+Flukeprint,Saonia
+Flukeprint,Taeania
+Flukeprint,Zobellia
+Flukeprint,Jatrophihabitans
+Flukeprint,Propionigenium
+Flukeprint,Gaiella
+Flukeprint,Marinicella
+Flukeprint,Gp3
+Flukeprint,Gp7
+Flukeprint,Carnobacterium
+Flukeprint,Leuconostoc
+Flukeprint,Cellulomonas
+Flukeprint,Cryobacterium
+Flukeprint,Pseudarthrobacter
+Flukeprint,Subtercola
+Flukeprint,Uruburuella
+Flukeprint,Vitreoscilla
+Flukeprint,Gallionella
+Flukeprint,Leptospirillum
+Flukeprint,Ketobacter
+Flukeprint,Neptunomonas
+Flukeprint,Actinobacillus
+Flukeprint,Mannheimia
+Flukeprint,Phycisphaera
+Flukeprint,Thermostilla
+Flukeprint,Agitococcus
+Flukeprint,Pseudonocardia
+Flukeprint,Ahrensia
+Flukeprint,Anderseniella
+Flukeprint,Bauldia
+Flukeprint,Methylobacterium
+Flukeprint,Methylocystis
+Flukeprint,Prosthecomicrobium
+Flukeprint,Shinella
+Flukeprint,Amaricoccus
+Flukeprint,Epibacterium
+Flukeprint,Loktanella
+Flukeprint,Planktomarina
+Flukeprint,Rubellimicrobium
+Flukeprint,Shimia
+Flukeprint,Dechloromonas
+Flukeprint,Propionivibrio
+Flukeprint,Uliginosibacterium
+Flukeprint,Altererythrobacter
+Flukeprint,Parasphingopyxis
+Flukeprint,Polymorphobacter
+Flukeprint,Pleomorphochaeta
+Flukeprint,Actinoallomurus
+Flukeprint,Cloacibacillus
+Flukeprint,Terrimicrobium
+Flukeprint,Fervidobacterium
+Flukeprint,Leucothrix
+Flukeprint,Thiomicrorhabdus
+Flukeprint,WPS-2_genera_incertae_sedis
+Flukeprint,Woesearchaeota Incertae Sedis AR16
+Flukeprint,Luteimonas
+Flukeprint,Rhodanobacter
+Flukeprint,Xanthomonas
+Seawater Control,Agarivorans
+Seawater Control,Catenovulum
+Seawater Control,Psychrosphaera
+Seawater Control,Bacteriovorax
+Seawater Control,Butyricimonas
+Seawater Control,Prolixibacter
+Seawater Control,Casimicrobium
+Seawater Control,Castellaniella
+Seawater Control,Acetivibrio
+Seawater Control,Fusibacter
+Seawater Control,Monoglobus
+Seawater Control,Paeniclostridium
+Seawater Control,Proteocatella
+Seawater Control,Arcicella
+Seawater Control,Aureibacter
+Seawater Control,Flectobacillus
+Seawater Control,Deferrisoma
+Seawater Control,Desulfatiglans
+Seawater Control,Desulfoconvexum
+Seawater Control,Raoultella
+Seawater Control,Candidatus Carsonella
+Seawater Control,Ignatzschineria
+Seawater Control,Gp25
+Seawater Control,Kordiimonas
+Seawater Control,Weissella
+Seawater Control,Limisphaera
+Seawater Control,Neisseria
+Seawater Control,Vogesella
+Seawater Control,Povalibacter
+Seawater Control,Endozoicomonas
+Seawater Control,Oligosphaera
+Seawater Control,Fimbriiglobus
+Seawater Control,Gemmata
+Seawater Control,Planctopirus
+Seawater Control,Zavarzinella
+Seawater Control,Marmoricola
+Seawater Control,Nocardioides
+Seawater Control,Moraxella
+Seawater Control,Mesorhizobium
+Seawater Control,Methylocella
+Seawater Control,Gemmobacter
+Seawater Control,Ruegeria
+Seawater Control,Roseomonas
+Seawater Control,Haliscomenobacter
+Seawater Control,Phaeodactylibacter
+Seawater Control,Anaeroarcus
+Seawater Control,Daejeonella
+Seawater Control,Cocleimonas
+Seawater Control,Francisella
+Seawater Control,Catenococcus
+Seawater Control,Luteitalea
+Flukeprint,Phascolarctobacterium
+Flukeprint,Actinomarinicola
+Flukeprint,Desertimonas
+Flukeprint,Ilumatobacter
+Flukeprint,Aeromonas
+Flukeprint,Tolumonas
+Flukeprint,Colwellia
+Flukeprint,Moritella
+Flukeprint,Paraglaciecola
+Flukeprint,Paramoritella
+Flukeprint,Psychrobium
+Flukeprint,Psychromonas
+Flukeprint,Thalassotalea
+Flukeprint,Arenicella
+Flukeprint,Armatimonas/Armatimonadetes_gp1
+Flukeprint,Atribacteria_genera_incertae_sedis
+Flukeprint,Lysinibacillus
+Flukeprint,Paenibacillus
+Flukeprint,Halobacteriovorax
+Flukeprint,Alistipes
+Flukeprint,Ancylomarina
+Flukeprint,Bacteroides
+Flukeprint,Barnesiella
+Flukeprint,Duncaniella
+Flukeprint,Odoribacter
+Flukeprint,Paludibacter
+Flukeprint,Parabacteroides
+Flukeprint,Phocaeicola
+Flukeprint,Prevotella
+Flukeprint,Vampirovibrio
+Flukeprint,Bifidobacterium
+Flukeprint,Acidovorax
+Flukeprint,Aquabacterium
+Flukeprint,Bordetella
+Flukeprint,Comamonas
+Flukeprint,Curvibacter
+Flukeprint,Duganella
+Flukeprint,Herbaspirillum
+Flukeprint,Hydrogenophaga
+Flukeprint,Janthinobacterium
+Flukeprint,Malikia
+Flukeprint,Massilia
+Flukeprint,Parasutterella
+Flukeprint,Polaromonas
+Flukeprint,Polynucleobacter
+Flukeprint,Ralstonia
+Flukeprint,Rhizobacter
+Flukeprint,Rhodoferax
+Flukeprint,Simplicispira
+Flukeprint,Sphaerotilus
+Flukeprint,Tepidimonas
+Flukeprint,Undibacterium
+Flukeprint,Aliarcobacter
+Flukeprint,Poseidonibacter
+Flukeprint,Pseudarcobacter
+Flukeprint,Sulfurovum
+Flukeprint,Candidatus Hydrogenedens
+Flukeprint,Algimonas
+Flukeprint,Asprobacter
+Flukeprint,Caulobacter
+Flukeprint,Hellea
+Flukeprint,Phenylobacterium
+Flukeprint,Cellvibrio
+Flukeprint,Eionea
+Flukeprint,Haliea
+Flukeprint,Halioglobus
+Flukeprint,Luminiphilus
+Flukeprint,Marimicrobium
+Flukeprint,Oceanicoccus
+Flukeprint,Porticoccus
+Flukeprint,Ferruginibacter
+Flukeprint,Flavitalea
+Flukeprint,Sediminibacterium
+Flukeprint,Bacillariophyta
+Flukeprint,Chlorophyta
+Flukeprint,Cryptomonadaceae
+Flukeprint,Streptophyta
+Flukeprint,Woeseia
+Flukeprint,Acetobacterium
+Flukeprint,Anaerostipes
+Flukeprint,Blautia
+Flukeprint,Clostridium XlVa
+Flukeprint,Clostridium sensu stricto
+Flukeprint,Colidextribacter
+Flukeprint,Coprococcus
+Flukeprint,Dorea
+Flukeprint,Dysosmobacter
+Flukeprint,Eisenbergiella
+Flukeprint,Faecalibacterium
+Flukeprint,Flintibacter
+Flukeprint,Fusicatenibacter
+Flukeprint,Gemmiger
+Flukeprint,Hungatella
+Flukeprint,Intestinibacillus
+Flukeprint,Intestinimonas
+Flukeprint,Kineothrix
+Flukeprint,Lachnospira
+Flukeprint,Lacrimispora
+Flukeprint,Mediterraneibacter
+Flukeprint,Peptacetobacter
+Flukeprint,Phocea
+Flukeprint,Romboutsia
+Flukeprint,Roseburia
+Flukeprint,Ruminococcus
+Flukeprint,Ruminococcus2
+Flukeprint,Schaedlerella
+Flukeprint,Sedimentibacter
+Flukeprint,Syntrophomonas
+Flukeprint,Tissierella
+Flukeprint,Coprothermobacter
+Flukeprint,Collinsella
+Flukeprint,Aquirufa
+Flukeprint,Dyadobacter
+Flukeprint,Emticicia
+Flukeprint,Fulvivirga
+Flukeprint,Lacihabitans
+Flukeprint,Mucispirillum
+Flukeprint,Desulfobulbus
+Flukeprint,Desulfopila
+Flukeprint,Desulfosarcina
+Flukeprint,Desulfotalea
+Flukeprint,Desulfovibrio
+Flukeprint,Geobacter
+Flukeprint,Pelobacter
+Flukeprint,Adlercreutzia
+Flukeprint,Emcibacter
+Flukeprint,Enterobacter
+Flukeprint,Catenibacterium
+Flukeprint,Clostridium XVIII
+Flukeprint,Erysipelatoclostridium
+Flukeprint,Faecalibacillus
+Flukeprint,Holdemanella
+Flukeprint,Massilimicrobiota
+Flukeprint,GpIIa
+Flukeprint,Prochlorococcus
+Flukeprint,GpXIII
+Flukeprint,Algibacter
+Flukeprint,Aquimarina
+Flukeprint,Brumimicrobium
+Flukeprint,Cloacibacterium
+Flukeprint,Crocinitomix
+Flukeprint,Flavicella
+Flukeprint,Flavobacterium
+Flukeprint,Fluviicola
+Flukeprint,Formosa
+Flukeprint,Gaetbulibacter
+Flukeprint,Lutibacter
+Flukeprint,Lutimonas
+Flukeprint,Maribacter
+Flukeprint,Owenweeksia
+Flukeprint,Phaeocystidibacter
+Flukeprint,Polaribacter
+Flukeprint,Pseudofulvibacter
+Flukeprint,Tenacibaculum
+Flukeprint,Ulvibacter
+Flukeprint,Vicingus
+Flukeprint,Wenyingzhuangia
+Flukeprint,Winogradskyella
+Flukeprint,Cetobacterium
+Flukeprint,Fusobacterium
+Flukeprint,Hypnocyclicus
+Flukeprint,Psychrilyobacter
+Flukeprint,Gemmatimonas
+Flukeprint,Gp10
+Flukeprint,Gp22
+Flukeprint,Gp23
+Flukeprint,Gp5
+Flukeprint,Gp6
+Flukeprint,Geothrix
+Flukeprint,Ignavibacterium
+Flukeprint,Kiritimatiella
+Flukeprint,Catellicoccus
+Flukeprint,Enterococcus
+Flukeprint,Lactococcus
+Flukeprint,Streptococcus
+Flukeprint,Trichococcus
+Flukeprint,Latescibacteria_genera_incertae_sedis
+Flukeprint,Aquicella
+Flukeprint,Coxiella
+Flukeprint,Diplorickettsia
+Flukeprint,Legionella
+Flukeprint,Lentisphaera
+Flukeprint,Marinimicrobia_genera_incertae_sedis
+Flukeprint,Mariprofundus
+Flukeprint,Methylobacter
+Flukeprint,Aurantimicrobium
+Flukeprint,Leucobacter
+Flukeprint,Microbacterium
+Flukeprint,Micrococcus
+Flukeprint,Rhodoluna
+Flukeprint,Micropepsis
+Flukeprint,Mycobacterium
+Flukeprint,Plesiocystis
+Flukeprint,Rivicola
+Flukeprint,Georgfuchsia
+Flukeprint,Methylophilus
+Flukeprint,Methylotenera
+Flukeprint,Nitrosospira
+Flukeprint,Thiobacillus
+Flukeprint,Nitrosopumilus
+Flukeprint,Nitrospina
+Flukeprint,Nitrospira
+Flukeprint,Marinomonas
+Flukeprint,Pseudohongiella
+Flukeprint,Spongiispira
+Flukeprint,Pseudobacteriovorax
+Flukeprint,Cephaloticoccus
+Flukeprint,Lacunisphaera
+Flukeprint,Oleiharenicola
+Flukeprint,Pacearchaeota Incertae Sedis AR13
+Flukeprint,Defluviitoga
+Flukeprint,Blastopirellula
+Flukeprint,Lacipirellula
+Flukeprint,Mariniblastus
+Flukeprint,Rhodopirellula
+Flukeprint,Rubripirellula
+Flukeprint,Gimesia
+Flukeprint,Planctomicrobium
+Flukeprint,Schlesneria
+Flukeprint,Singulisphaera
+Flukeprint,Tundrisphaera
+Flukeprint,Zea
+Flukeprint,Cutibacterium
+Flukeprint,Acinetobacter
+Flukeprint,Pseudomonas
+Flukeprint,Psychrobacter
+Flukeprint,Coraliomargarita
+Flukeprint,Pelagicoccus
+Flukeprint,Ruficoccus
+Flukeprint,Allorhizobium
+Flukeprint,Ancylobacter
+Flukeprint,Beijerinckia
+Flukeprint,Bradyrhizobium
+Flukeprint,Devosia
+Flukeprint,Hoeflea
+Flukeprint,Hyphomicrobium
+Flukeprint,Kaistia
+Flukeprint,Lentilitoribacter
+Flukeprint,Methyloceanibacter
+Flukeprint,Parvibaculum
+Flukeprint,Pedomicrobium
+Flukeprint,Pseudahrensia
+Flukeprint,Pseudolabrys
+Flukeprint,Rhizobium
+Flukeprint,Rhodopseudomonas
+Flukeprint,Xanthobacter
+Flukeprint,Amylibacter
+Flukeprint,Celeribacter
+Flukeprint,Cypionkella
+Flukeprint,Halocynthiibacter
+Flukeprint,Litoreibacter
+Flukeprint,Nereida
+Flukeprint,Octadecabacter
+Flukeprint,Roseovarius
+Flukeprint,Sulfitobacter
+Flukeprint,Thalassobius
+Flukeprint,Yoonia
+Flukeprint,Ferribacterium
+Flukeprint,Thauera
+Flukeprint,Zoogloea
+Flukeprint,Acidocella
+Flukeprint,Nisaea
+Flukeprint,Reyranella
+Flukeprint,Rhodovarius
+Flukeprint,Thalassobaculum
+Flukeprint,Varunaivibrio
+Flukeprint,Roseithermus
+Flukeprint,Occidentia
+Flukeprint,Rickettsia
+Flukeprint,Candidatus Pelagibacter
+Flukeprint,Saccharibacteria_genera_incertae_sedis
+Flukeprint,Aureispira
+Flukeprint,Flavilitoribacter
+Flukeprint,Anaerohalosphaera
+Flukeprint,Anaerosinus
+Flukeprint,Megamonas
+Flukeprint,Pelosinus
+Flukeprint,Selenomonas
+Flukeprint,Spartobacteria_genera_incertae_sedis
+Flukeprint,Mucilaginibacter
+Flukeprint,Pedobacter
+Flukeprint,Erythrobacter
+Flukeprint,Novosphingobium
+Flukeprint,Sphingobium
+Flukeprint,Sphingomonas
+Flukeprint,Sphingorhabdus
+Flukeprint,Longivirga
+Flukeprint,Subdivision3_genera_incertae_sedis
+Flukeprint,Acetomicrobium
+Flukeprint,Cysteiniphilum
+Flukeprint,Thiothrix
+Flukeprint,Dialister
+Flukeprint,Akkermansia
+Flukeprint,Luteolibacter
+Flukeprint,Rubritalea
+Flukeprint,Aliivibrio
+Flukeprint,Photobacterium
+Flukeprint,Vibrio
+Flukeprint,Arenimonas
+Flukeprint,Stenotrophomonas
+Seawater Control,Phascolarctobacterium
+Seawater Control,Actinomarinicola
+Seawater Control,Desertimonas
+Seawater Control,Ilumatobacter
+Seawater Control,Aeromonas
+Seawater Control,Tolumonas
+Seawater Control,Colwellia
+Seawater Control,Moritella
+Seawater Control,Paraglaciecola
+Seawater Control,Paramoritella
+Seawater Control,Psychrobium
+Seawater Control,Psychromonas
+Seawater Control,Thalassotalea
+Seawater Control,Arenicella
+Seawater Control,Armatimonas/Armatimonadetes_gp1
+Seawater Control,Atribacteria_genera_incertae_sedis
+Seawater Control,Lysinibacillus
+Seawater Control,Paenibacillus
+Seawater Control,Halobacteriovorax
+Seawater Control,Alistipes
+Seawater Control,Ancylomarina
+Seawater Control,Bacteroides
+Seawater Control,Barnesiella
+Seawater Control,Duncaniella
+Seawater Control,Odoribacter
+Seawater Control,Paludibacter
+Seawater Control,Parabacteroides
+Seawater Control,Phocaeicola
+Seawater Control,Prevotella
+Seawater Control,Vampirovibrio
+Seawater Control,Bifidobacterium
+Seawater Control,Acidovorax
+Seawater Control,Aquabacterium
+Seawater Control,Bordetella
+Seawater Control,Comamonas
+Seawater Control,Curvibacter
+Seawater Control,Duganella
+Seawater Control,Herbaspirillum
+Seawater Control,Hydrogenophaga
+Seawater Control,Janthinobacterium
+Seawater Control,Malikia
+Seawater Control,Massilia
+Seawater Control,Parasutterella
+Seawater Control,Polaromonas
+Seawater Control,Polynucleobacter
+Seawater Control,Ralstonia
+Seawater Control,Rhizobacter
+Seawater Control,Rhodoferax
+Seawater Control,Simplicispira
+Seawater Control,Sphaerotilus
+Seawater Control,Tepidimonas
+Seawater Control,Undibacterium
+Seawater Control,Aliarcobacter
+Seawater Control,Poseidonibacter
+Seawater Control,Pseudarcobacter
+Seawater Control,Sulfurovum
+Seawater Control,Candidatus Hydrogenedens
+Seawater Control,Algimonas
+Seawater Control,Asprobacter
+Seawater Control,Caulobacter
+Seawater Control,Hellea
+Seawater Control,Phenylobacterium
+Seawater Control,Cellvibrio
+Seawater Control,Eionea
+Seawater Control,Haliea
+Seawater Control,Halioglobus
+Seawater Control,Luminiphilus
+Seawater Control,Marimicrobium
+Seawater Control,Oceanicoccus
+Seawater Control,Porticoccus
+Seawater Control,Ferruginibacter
+Seawater Control,Flavitalea
+Seawater Control,Sediminibacterium
+Seawater Control,Bacillariophyta
+Seawater Control,Chlorophyta
+Seawater Control,Cryptomonadaceae
+Seawater Control,Streptophyta
+Seawater Control,Woeseia
+Seawater Control,Acetobacterium
+Seawater Control,Anaerostipes
+Seawater Control,Blautia
+Seawater Control,Clostridium XlVa
+Seawater Control,Clostridium sensu stricto
+Seawater Control,Colidextribacter
+Seawater Control,Coprococcus
+Seawater Control,Dorea
+Seawater Control,Dysosmobacter
+Seawater Control,Eisenbergiella
+Seawater Control,Faecalibacterium
+Seawater Control,Flintibacter
+Seawater Control,Fusicatenibacter
+Seawater Control,Gemmiger
+Seawater Control,Hungatella
+Seawater Control,Intestinibacillus
+Seawater Control,Intestinimonas
+Seawater Control,Kineothrix
+Seawater Control,Lachnospira
+Seawater Control,Lacrimispora
+Seawater Control,Mediterraneibacter
+Seawater Control,Peptacetobacter
+Seawater Control,Phocea
+Seawater Control,Romboutsia
+Seawater Control,Roseburia
+Seawater Control,Ruminococcus
+Seawater Control,Ruminococcus2
+Seawater Control,Schaedlerella
+Seawater Control,Sedimentibacter
+Seawater Control,Syntrophomonas
+Seawater Control,Tissierella
+Seawater Control,Coprothermobacter
+Seawater Control,Collinsella
+Seawater Control,Aquirufa
+Seawater Control,Dyadobacter
+Seawater Control,Emticicia
+Seawater Control,Fulvivirga
+Seawater Control,Lacihabitans
+Seawater Control,Mucispirillum
+Seawater Control,Desulfobulbus
+Seawater Control,Desulfopila
+Seawater Control,Desulfosarcina
+Seawater Control,Desulfotalea
+Seawater Control,Desulfovibrio
+Seawater Control,Geobacter
+Seawater Control,Pelobacter
+Seawater Control,Adlercreutzia
+Seawater Control,Emcibacter
+Seawater Control,Enterobacter
+Seawater Control,Catenibacterium
+Seawater Control,Clostridium XVIII
+Seawater Control,Erysipelatoclostridium
+Seawater Control,Faecalibacillus
+Seawater Control,Holdemanella
+Seawater Control,Massilimicrobiota
+Seawater Control,GpIIa
+Seawater Control,Prochlorococcus
+Seawater Control,GpXIII
+Seawater Control,Algibacter
+Seawater Control,Aquimarina
+Seawater Control,Brumimicrobium
+Seawater Control,Cloacibacterium
+Seawater Control,Crocinitomix
+Seawater Control,Flavicella
+Seawater Control,Flavobacterium
+Seawater Control,Fluviicola
+Seawater Control,Formosa
+Seawater Control,Gaetbulibacter
+Seawater Control,Lutibacter
+Seawater Control,Lutimonas
+Seawater Control,Maribacter
+Seawater Control,Owenweeksia
+Seawater Control,Phaeocystidibacter
+Seawater Control,Polaribacter
+Seawater Control,Pseudofulvibacter
+Seawater Control,Tenacibaculum
+Seawater Control,Ulvibacter
+Seawater Control,Vicingus
+Seawater Control,Wenyingzhuangia
+Seawater Control,Winogradskyella
+Seawater Control,Cetobacterium
+Seawater Control,Fusobacterium
+Seawater Control,Hypnocyclicus
+Seawater Control,Psychrilyobacter
+Seawater Control,Gemmatimonas
+Seawater Control,Gp10
+Seawater Control,Gp22
+Seawater Control,Gp23
+Seawater Control,Gp5
+Seawater Control,Gp6
+Seawater Control,Geothrix
+Seawater Control,Ignavibacterium
+Seawater Control,Kiritimatiella
+Seawater Control,Catellicoccus
+Seawater Control,Enterococcus
+Seawater Control,Lactococcus
+Seawater Control,Streptococcus
+Seawater Control,Trichococcus
+Seawater Control,Latescibacteria_genera_incertae_sedis
+Seawater Control,Aquicella
+Seawater Control,Coxiella
+Seawater Control,Diplorickettsia
+Seawater Control,Legionella
+Seawater Control,Lentisphaera
+Seawater Control,Marinimicrobia_genera_incertae_sedis
+Seawater Control,Mariprofundus
+Seawater Control,Methylobacter
+Seawater Control,Aurantimicrobium
+Seawater Control,Leucobacter
+Seawater Control,Microbacterium
+Seawater Control,Micrococcus
+Seawater Control,Rhodoluna
+Seawater Control,Micropepsis
+Seawater Control,Mycobacterium
+Seawater Control,Plesiocystis
+Seawater Control,Rivicola
+Seawater Control,Georgfuchsia
+Seawater Control,Methylophilus
+Seawater Control,Methylotenera
+Seawater Control,Nitrosospira
+Seawater Control,Thiobacillus
+Seawater Control,Nitrosopumilus
+Seawater Control,Nitrospina
+Seawater Control,Nitrospira
+Seawater Control,Marinomonas
+Seawater Control,Pseudohongiella
+Seawater Control,Spongiispira
+Seawater Control,Pseudobacteriovorax
+Seawater Control,Cephaloticoccus
+Seawater Control,Lacunisphaera
+Seawater Control,Oleiharenicola
+Seawater Control,Pacearchaeota Incertae Sedis AR13
+Seawater Control,Defluviitoga
+Seawater Control,Blastopirellula
+Seawater Control,Lacipirellula
+Seawater Control,Mariniblastus
+Seawater Control,Rhodopirellula
+Seawater Control,Rubripirellula
+Seawater Control,Gimesia
+Seawater Control,Planctomicrobium
+Seawater Control,Schlesneria
+Seawater Control,Singulisphaera
+Seawater Control,Tundrisphaera
+Seawater Control,Zea
+Seawater Control,Cutibacterium
+Seawater Control,Acinetobacter
+Seawater Control,Pseudomonas
+Seawater Control,Psychrobacter
+Seawater Control,Coraliomargarita
+Seawater Control,Pelagicoccus
+Seawater Control,Ruficoccus
+Seawater Control,Allorhizobium
+Seawater Control,Ancylobacter
+Seawater Control,Beijerinckia
+Seawater Control,Bradyrhizobium
+Seawater Control,Devosia
+Seawater Control,Hoeflea
+Seawater Control,Hyphomicrobium
+Seawater Control,Kaistia
+Seawater Control,Lentilitoribacter
+Seawater Control,Methyloceanibacter
+Seawater Control,Parvibaculum
+Seawater Control,Pedomicrobium
+Seawater Control,Pseudahrensia
+Seawater Control,Pseudolabrys
+Seawater Control,Rhizobium
+Seawater Control,Rhodopseudomonas
+Seawater Control,Xanthobacter
+Seawater Control,Amylibacter
+Seawater Control,Celeribacter
+Seawater Control,Cypionkella
+Seawater Control,Halocynthiibacter
+Seawater Control,Litoreibacter
+Seawater Control,Nereida
+Seawater Control,Octadecabacter
+Seawater Control,Roseovarius
+Seawater Control,Sulfitobacter
+Seawater Control,Thalassobius
+Seawater Control,Yoonia
+Seawater Control,Ferribacterium
+Seawater Control,Thauera
+Seawater Control,Zoogloea
+Seawater Control,Acidocella
+Seawater Control,Nisaea
+Seawater Control,Reyranella
+Seawater Control,Rhodovarius
+Seawater Control,Thalassobaculum
+Seawater Control,Varunaivibrio
+Seawater Control,Roseithermus
+Seawater Control,Occidentia
+Seawater Control,Rickettsia
+Seawater Control,Candidatus Pelagibacter
+Seawater Control,Saccharibacteria_genera_incertae_sedis
+Seawater Control,Aureispira
+Seawater Control,Flavilitoribacter
+Seawater Control,Anaerohalosphaera
+Seawater Control,Anaerosinus
+Seawater Control,Megamonas
+Seawater Control,Pelosinus
+Seawater Control,Selenomonas
+Seawater Control,Spartobacteria_genera_incertae_sedis
+Seawater Control,Mucilaginibacter
+Seawater Control,Pedobacter
+Seawater Control,Erythrobacter
+Seawater Control,Novosphingobium
+Seawater Control,Sphingobium
+Seawater Control,Sphingomonas
+Seawater Control,Sphingorhabdus
+Seawater Control,Longivirga
+Seawater Control,Subdivision3_genera_incertae_sedis
+Seawater Control,Acetomicrobium
+Seawater Control,Cysteiniphilum
+Seawater Control,Thiothrix
+Seawater Control,Dialister
+Seawater Control,Akkermansia
+Seawater Control,Luteolibacter
+Seawater Control,Rubritalea
+Seawater Control,Aliivibrio
+Seawater Control,Photobacterium
+Seawater Control,Vibrio
+Seawater Control,Arenimonas
+Seawater Control,Stenotrophomonas
